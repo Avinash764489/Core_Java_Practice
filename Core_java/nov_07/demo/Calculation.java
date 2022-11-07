@@ -41,6 +41,7 @@ public class Calculation {
 		//call method with class object
 		obj.add(8,48);
 		//call method with class object
+		
 		obj.add(9.4f, 9.4f);
 	}
 	//end of method

@@ -3,6 +3,11 @@ package demo;
 //declare class
 public class ConsCalculation {
 	
+	//declare default constructor
+	public ConsCalculation() {
+		System.out.println("Default constructor");
+	}
+	
 	//declare parameterized constructor
 	public ConsCalculation(int num) {
 		num++;
@@ -30,6 +35,8 @@ public class ConsCalculation {
 	
 	//declare main method
 	public static void main(String arg[]) {
+		//create class object
+		ConsCalculation obj = new ConsCalculation();
 		//create class object
 		ConsCalculation obj1 = new ConsCalculation(8);
 		//create class object
