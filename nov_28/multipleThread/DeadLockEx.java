@@ -13,7 +13,7 @@ public class DeadLockEx {
 					System.out.println("Thread1-lock r1");
 					try {
 						Thread.sleep(100);
-					}catch(Exception e) {
+					}catch(Exception e) { 
 						System.out.println(e.getMessage());
 					}
 					synchronized(r2) {

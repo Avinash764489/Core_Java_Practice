@@ -18,5 +18,5 @@ public class CurrencyesFormate {
 		currency(Locale.US);
 		
 		
-	}
+	} 
 }

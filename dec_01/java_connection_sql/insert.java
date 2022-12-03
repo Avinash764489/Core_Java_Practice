@@ -30,5 +30,5 @@ public class insert {
 		else
 			System.out.println("error");
 		
-	}
+	} 
 }

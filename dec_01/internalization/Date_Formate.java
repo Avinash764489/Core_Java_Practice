@@ -18,5 +18,5 @@ public class Date_Formate {
 		currency(Locale.US);
 		
 		
-	}
+	} 
 }

@@ -11,7 +11,7 @@ public class LockStarex extends Thread {
 			tc=tc+1;
 		}catch(Exception e) {
 			
-		}
+		} 
 	}
 	public static void main(String arg[]) {
 		System.out.println("Main thread execution starts");

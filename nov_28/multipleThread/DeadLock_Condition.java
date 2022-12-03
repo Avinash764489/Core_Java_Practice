@@ -8,7 +8,7 @@ class Occupy{
 		}catch(InterruptedException e) {
 			System.out.println(e.getMessage());
 		}
-	}
+	} 
 }
 
 class Friend{
