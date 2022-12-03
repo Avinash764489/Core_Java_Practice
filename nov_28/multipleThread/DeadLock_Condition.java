@@ -13,7 +13,7 @@ class Occupy{
 
 class Friend{
 	synchronized void test1(Friend f){
-		System.out.println("Friend-test1 begin");
+		System.out.println("Friend-test1 begin"); 
 		Occupy.sleep(1000);
 		f.test2(f);
 		System.out.println("Friend-test1 ends");
