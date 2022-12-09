@@ -12,6 +12,7 @@
 	<classpathentry kind="src" path="nov_22"/>
 	<classpathentry kind="src" path="Dec_05"/>
 	<classpathentry kind="src" path="dec_02"/>
+	<classpathentry kind="src" path="game_program"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
 		<attributes>
 			<attribute name="module" value="true"/>
